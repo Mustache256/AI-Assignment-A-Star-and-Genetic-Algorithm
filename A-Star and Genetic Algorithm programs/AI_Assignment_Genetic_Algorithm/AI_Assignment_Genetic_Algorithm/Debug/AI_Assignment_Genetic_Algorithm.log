@@ -1,0 +1,21 @@
+﻿  Main.cpp
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Chromosome.h(115,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Chromosome.h(116,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Chromosome.h(135,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(70,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(70,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(97,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(124,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(157,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(162,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(177,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(182,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(188,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(199,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(204,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(250,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(423,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(476,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(476,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\AI_Assignment_Genetic_Algorithm\Main.cpp(410,6): warning C4101: 'sfDistance': unreferenced local variable
+  AI_Assignment_Genetic_Algorithm.vcxproj -> C:\Users\danie\source\repos\AI_Assignment_Genetic_Algorithm\Debug\AI_Assignment_Genetic_Algorithm.exe

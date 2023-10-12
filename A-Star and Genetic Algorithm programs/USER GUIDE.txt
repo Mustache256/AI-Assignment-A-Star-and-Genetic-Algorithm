@@ -1,0 +1,8 @@
+---------- FOR BOTH PROGRAMS: ----------
+
+1. Please ensure that you are using either the ANSI or UTF_8 versions of the maze files you want the programs to read from.
+2. Place the files you wish for the programs to use within the same folder as each of their respective EXE files, so that the programs
+   will be able to locate and read from said files. If you wish to run the programs through the debug window within visual studio, then please
+   also place the files within the folder containing the cpp and h files of each program.
+3. When prompted by each program, please ensure that you input the name of the file you wish each program to read from accurately, including the designation
+   of that file's type (e.g: MazeFileName1ANSI.txt). 

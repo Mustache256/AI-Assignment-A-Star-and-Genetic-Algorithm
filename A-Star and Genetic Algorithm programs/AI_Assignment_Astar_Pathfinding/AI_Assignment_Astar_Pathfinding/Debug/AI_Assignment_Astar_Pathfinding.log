@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\danie\source\repos\AI_Assignment_Astar_Pathfinding\AI_Assignment_Astar_Pathfinding\Main.cpp(275,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\AI_Assignment_Astar_Pathfinding\AI_Assignment_Astar_Pathfinding\Main.cpp(307,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\AI_Assignment_Astar_Pathfinding\AI_Assignment_Astar_Pathfinding\Main.cpp(381,21): warning C4018: '<': signed/unsigned mismatch
+  AI_Assignment_Astar_Pathfinding.vcxproj -> C:\Users\danie\source\repos\AI_Assignment_Astar_Pathfinding\Debug\AI_Assignment_Astar_Pathfinding.exe
